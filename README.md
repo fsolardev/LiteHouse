@@ -6,6 +6,12 @@
 
 ## 🧠 Project Description
 
+The system is built to run smoothly on Raspberry Pi devices, making it ideal for low-power, always-on smart home hubs. It has been tested on:
+
+- Raspberry Pi 3 Model B
+- Raspberry Pi 4 Model B (2 GB and 4 GB variants)
+- Other devices running Debian-based Linux (e.g., Raspberry Pi OS, Ubuntu)
+
 The system is split into a frontend and backend that communicate over REST API and MQTT. Users can:
 
 - Control individual devices
@@ -150,6 +156,21 @@ This project demonstrates integration of:
 - JSON-based persistence
 - Hardware integration with WLED / Tasmota
 - Modular software architecture in Python
+
+---
+
+## 🚧 Upcoming Features
+
+The following features are planned for future releases of **LiteHouse**:
+
+- **🎙 Voice Control**  
+  Voice commands using offline speech recognition with customizable aliases per user. (only for Raspberry Pi 5 - 16GB RAM)
+
+- **🧩 Web UI for Device Management**  
+  Add and remove smart devices directly through the web interface without editing configuration files manually.
+
+- **⚙️ Web-Based Device Configuration**  
+  Easily configure MQTT topics, device names, and types directly from the browser.
 
 ---
 
