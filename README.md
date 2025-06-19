@@ -98,8 +98,8 @@ Edit the `settings.json` file:
   "mqtt": {
     "broker": "192.168.x.x",
     "port": 1883,
-    "username": "your_mqtt_user", // Leave blank if you don't want to use username
-    "password": "your_mqtt_password" // Leave blank if you don't have password
+    "username": "leave_blank_if_not_requiered",
+    "password": "leave_blank_if_not_requiered"
   },
   "devices": [
     {
