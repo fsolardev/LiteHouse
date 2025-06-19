@@ -8,9 +8,7 @@
 
 The system is built to run smoothly on Raspberry Pi devices, making it ideal for low-power, always-on smart home hubs. It has been tested on:
 
-- Raspberry Pi 3 Model B
-- Raspberry Pi 4 Model B (2 GB and 4 GB variants)
-- Other devices running Debian-based Linux (e.g., Raspberry Pi OS, Ubuntu)
+- Raspberry Pi 4 Model B (8GB of RAM)
 
 The system is split into a frontend and backend that communicate over REST API and MQTT. Users can:
 
