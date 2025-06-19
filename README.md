@@ -1,6 +1,6 @@
 # LiteHouse
 
-**LiteHouse** is a smart home lighting control system designed as a graduation project in 2025 at **Gymnázium Šumperk**. The project enables real-time control of WiFi-enabled devices such as **WLED**, **Tasmota**, and **OpenBeken** using a modern web interface and MQTT communication protocol.
+**LiteHouse** is a smart home lighting control system designed as a graduation project in 2025 at **Gymnázium Šumperk**. The project enables real-time control of WiFi-enabled devices such as **WLED**, **Tasmota**, and **OpenBeken** using a modern web interface and MQTT communication protocol. Unlike systems such as **HomeAssistant**, which consume significant memory and CPU resources on Raspberry Pi devices, LiteHouse is designed to be minimal, fast, and focused purely on smart lighting control using MQTT.
 
 ---
 
